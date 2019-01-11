@@ -2,6 +2,8 @@
 
 Know tickets openings faster and grab your tickets.
 
+https://user-images.githubusercontent.com/6559664/51026216-04c7a480-15b4-11e9-904c-6d30fc9fa428.PNG
+
 <h3>Installation</h3>
 
 1. Clone Repo
